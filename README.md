@@ -59,6 +59,6 @@ You can use the website to generate badges: https://shields.io/
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy6666&langs_count=8&theme=outrun&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<a href="https://app.daily.dev/sandy_06"><img src="https://api.daily.dev/devcards/bcb11a916aee4166a1566b7f7ed4d8d7.png?r=dpw" width="400" alt="Sandesh S's Dev Card"/></a>
+<a href="https://app.daily.dev/sandy_06"><img src="https://github.com/sandy6666/sandy6666/blob/main/devcard.svg" width="400" alt="Sandesh S's Dev Card"/></a>
 
 Last Edited on: 29/10/2021
